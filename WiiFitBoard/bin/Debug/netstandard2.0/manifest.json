@@ -1,7 +1,7 @@
 {
     "name": "WiiFitBoard",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/JackTYM",
+    "website_url": "https://github.com/JackTYM/RoR2WiiFitBoard",
     "description": "Adds a wii fit board that gives you movement speed",
     "dependencies": [
 		"bbepis-BepInExPack-5.3.1"
