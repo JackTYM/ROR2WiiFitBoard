@@ -1,0 +1,10 @@
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\obj\Debug\netstandard2.0\WiiFitBoard.csproj.AssemblyReference.cache
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\obj\Debug\netstandard2.0\WiiFitBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\obj\Debug\netstandard2.0\WiiFitBoard.AssemblyInfoInputs.cache
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\obj\Debug\netstandard2.0\WiiFitBoard.AssemblyInfo.cs
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\obj\Debug\netstandard2.0\WiiFitBoard.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\bin\Debug\netstandard2.0\WiiFitBoard.deps.json
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\bin\Debug\netstandard2.0\WiiFitBoard.dll
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\bin\Debug\netstandard2.0\WiiFitBoard.pdb
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\obj\Debug\netstandard2.0\WiiFitBoard.dll
+C:\Users\Jackson\Documents\Coding\C#\WiiFitBoard\WiiFitBoard\obj\Debug\netstandard2.0\WiiFitBoard.pdb

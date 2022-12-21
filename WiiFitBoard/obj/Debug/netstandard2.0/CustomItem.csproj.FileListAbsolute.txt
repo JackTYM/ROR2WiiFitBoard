@@ -1,0 +1,10 @@
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\bin\Debug\netstandard2.0\CustomItem.deps.json
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\bin\Debug\netstandard2.0\CustomItem.dll
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\bin\Debug\netstandard2.0\CustomItem.pdb
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\obj\Debug\netstandard2.0\CustomItem.csproj.AssemblyReference.cache
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\obj\Debug\netstandard2.0\CustomItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\obj\Debug\netstandard2.0\CustomItem.AssemblyInfoInputs.cache
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\obj\Debug\netstandard2.0\CustomItem.AssemblyInfo.cs
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\obj\Debug\netstandard2.0\CustomItem.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\obj\Debug\netstandard2.0\CustomItem.dll
+C:\Users\Jackson\Downloads\CustomItem-master\CustomItem-master\CustomItem\obj\Debug\netstandard2.0\CustomItem.pdb
