@@ -41,7 +41,7 @@ namespace WiiFitBoard
 
         private static void OnGetStatCoefficients(CharacterBody body, RecalculateStatsAPI.StatHookEventArgs args)
         {
-            args.moveSpeedMultAdd += (0.2f * body.inventory.GetItemCount(WiiFitBoardItemDef));
+            args.moveSpeedMultAdd += 2 * body.inventory.GetItemCount(WiiFitBoardItemDef);
         }
 
         private static void WiiFitBoardAsGreenTierItem()
@@ -49,7 +49,7 @@ namespace WiiFitBoard
             WiiFitBoardItemDef = new ItemDef
             {
                 name = "WiiFitBoard", // its the internal name, no spaces, apostrophes and stuff like that
-                tier = ItemTier.Tier2,
+                tier = ItemTier.Tier3,
                 pickupModelPrefab = WiiFitBoardPrefab,
                 pickupIconSprite = WiiFitBoardIcon,
                 nameToken = "WIIFITBOARD_NAME", // stylised name
@@ -77,7 +77,7 @@ namespace WiiFitBoard
             //The Description is where you put the actual numbers and give an advanced description.
             //CHANGE ME!!!
             LanguageAPI.Add("WIIFITBOARD_DESC",
-                "Increases your movement speed by <style=cIsUtility>20%</style> <style=cStack>(+20% per stack)</style>.");
+                "Increases your movement speed by <style=cIsUtility>40%</style> <style=cStack>(+40% per stack)</style>.");
             //The Lore is, well, flavor. You can write pretty much whatever you want here.
             LanguageAPI.Add("WIIFITBOARD_LORE",
                 "You're a fucking fatass but you did some WII FIT!!!! NOW YOU ARE SKINNY!!");

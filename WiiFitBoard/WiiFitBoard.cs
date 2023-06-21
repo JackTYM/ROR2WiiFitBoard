@@ -10,7 +10,7 @@ namespace WiiFitBoard
     [BepInPlugin(ModGuid, ModName, ModVer)]
     public class WiiFitBoard : BaseUnityPlugin
     {
-        private const string ModVer = "1.0.0";
+        private const string ModVer = "1.1.0";
         private const string ModName = "WiiFitBoard";
         public const string ModGuid = "me.jacktym.WiiFitBoard";
 
